@@ -2,10 +2,10 @@
 
 I am Ahmed Ryan, currently working as an Associate Software Engineer at [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
-[![Gmail Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz)](https://www.facebook.com/ahmedryanfaiyaz)
-[![Medium Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz)](https://www.facebook.com/ahmedryanfaiyaz)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
 
 
 ## ⚡ Technologies
