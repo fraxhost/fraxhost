@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ahmed Ryan, currently working as an Associate Software Engineer at the [Cefalo Bangladesh Ltd.](https://www.cefalo.com/en/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Ahmed Ryan, currently working as an Associate Software Engineer at the [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
 [![Medium Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
