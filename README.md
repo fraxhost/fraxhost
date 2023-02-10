@@ -5,7 +5,7 @@ I am Ahmed Ryan, currently working as an Associate Software Engineer at the [Cef
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
 [![Medium Badge](https://img.shields.io/badge/ahmedryanfaiyaz-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
 [![Gmail Badge](https://img.shields.io/badge/-ahmedryanfaiyaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/ahmedryanfaiyaz?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz/)](https://www.facebook.com/ahmedryanfaiyaz/)
+[![Facebook Badge](https://img.shields.io/badge/ahmedryanfaiyaz?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz)](https://www.facebook.com/ahmedryanfaiyaz)
 
 
 ## ⚡ Technologies
