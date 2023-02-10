@@ -33,5 +33,3 @@ I am Ahmed Ryan, currently working as an Associate Software Engineer at [Cefalo 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedryanfaiyaz&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedryanfaiyaz.ahmedryanfaiyaz)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedryanfaiyaz&repo=github-readme-stats)](https://github.com/ahmedryanfaiyaz/github-readme-stats)
