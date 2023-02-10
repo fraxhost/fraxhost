@@ -29,7 +29,7 @@ I am Ahmed Ryan, currently working as an Associate Software Engineer at the [Cef
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedryanfaiyaz&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedryanfaiyaz&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedryanfaiyaz&count_private=true&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedryanfaiyaz&hide=TeX&layout=compact)  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedryanfaiyaz.ahmedryanfaiyaz)
