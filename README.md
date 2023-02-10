@@ -3,13 +3,15 @@
 I am Ahmed Ryan, currently working as an Associate Software Engineer at the [Cefalo Bangladesh Ltd.](https://www.cefalo.com/en/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
-[![Medium Badge](https://img.shields.io/badge/ahmedryanfaiyaz-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
+[![Medium Badge](https://img.shields.io/badge/-ahmedryanfaiyaz-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
 [![Gmail Badge](https://img.shields.io/badge/-ahmedryanfaiyaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/ahmedryanfaiyaz?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz)](https://www.facebook.com/ahmedryanfaiyaz)
+[![Facebook Badge](https://img.shields.io/badge/-ahmedryanfaiyaz?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz)](https://www.facebook.com/ahmedryanfaiyaz)
 
 
 ## ⚡ Technologies
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -24,6 +26,8 @@ I am Ahmed Ryan, currently working as an Associate Software Engineer at the [Cef
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedryanfaiyaz&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedryanfaiyaz&hide=TeX&layout=compact)
