@@ -2,9 +2,9 @@
 
 I am Ahmed Ryan, currently working as an Associate Software Engineer at [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/dev-ahmedryan/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-ahmedryan/)](https://www.linkedin.com/in/dev-ahmedryan/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ahmedryanfaiyaz)](https://www.facebook.com/dev-ahmedryan)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dev-ahmedryan)](https://www.facebook.com/dev-ahmedryan)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
 
 
@@ -29,7 +29,7 @@ I am Ahmed Ryan, currently working as an Associate Software Engineer at [Cefalo 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedryanfaiyaz&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dev-ahmedryan&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedryan&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dev-ahmedryan.dev-ahmedryan)
