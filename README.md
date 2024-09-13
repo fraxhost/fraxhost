@@ -11,7 +11,7 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 
 ## ⚡ Technologies
 
-![Language](https://img.shields.io/badge/Language-222222)&nbsp;&nbsp;
+![Language](https://img.shields.io/badge/Language-555)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,28 +21,28 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 <br>
-![Framework](https://img.shields.io/badge/Framework-222222)&nbsp;&nbsp;
+![Framework](https://img.shields.io/badge/Framework-555)&nbsp;&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <br>
-![Database](https://img.shields.io/badge/Database-222222)&nbsp;&nbsp;
+![Database](https://img.shields.io/badge/Database-555)&nbsp;&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <br>
-![Version Control System](https://img.shields.io/badge/Version%20Control%20System-222222)&nbsp;&nbsp;
+![Version Control](https://img.shields.io/badge/Version%20Control-555)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 <br>
-![Code Editor](https://img.shields.io/badge/Code%20Editor-222222)&nbsp;&nbsp;
+![Code Editor](https://img.shields.io/badge/Code%20Editor-555)&nbsp;&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 <br>
-![Operating System](https://img.shields.io/badge/Operating%20System-222222)&nbsp;&nbsp;
+![Operating System](https://img.shields.io/badge/Operating%20System-555)&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
