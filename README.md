@@ -6,6 +6,7 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/fraxhost.png" alt="TryHackMe">
 
 ## ⚡ Technologies
 
@@ -28,7 +29,7 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ahmedryanfaiyaz&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedryanfaiyaz&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fraxhost&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraxhost&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ahmedryanfaiyaz.ahmedryanfaiyaz)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fraxhost.fraxhost)
