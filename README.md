@@ -7,7 +7,7 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/fraxhost)](https://facebook.com/fraxhost)
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/fraxhost.png)
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/fraxhost.png?v=1)
 
 ## ⚡ Technologies
 
