@@ -4,8 +4,9 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/fraxhost)](https://facebook.com/fraxhost)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@ahmedryanfaiyaz)](https://medium.com/@ahmedryanfaiyaz)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=Leetcode&logoColor=amber&link=https://leetcode.com/u/fraxhost/)](https://leetcode.com/u/fraxhost/)
+<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/fraxhost)](https://facebook.com/fraxhost) -->
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/fraxhost.png)
 
