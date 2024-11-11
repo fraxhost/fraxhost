@@ -27,7 +27,7 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Burp Suite](https://img.shields.io/badge/-BurpSuite-5B5452?style=flat-square&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/-Metasploit-FFFFFF?style=flat-square&logo=metasploit)
+![Metasploit](https://img.shields.io/badge/-Metasploit-EEEEEE?style=flat-square&logo=metasploit)
 ![JohnTheRipper](https://img.shields.io/badge/-JohnTheRipper-DD0000?style=flat-square&logo=JohnTheRipper)
 <br>
 ![Database](https://img.shields.io/badge/Database-555)&nbsp;&nbsp;
