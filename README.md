@@ -52,6 +52,7 @@ Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.c
 ![Metasploit](https://img.shields.io/badge/-Metasploit-EEEEEE?style=flat-square&logo=metasploit)
 ![JohnTheRipper](https://img.shields.io/badge/-JohnTheRipper-DD0000?style=flat-square&logo=JohnTheRipper)
 <br>
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fraxhost&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=400px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraxhost&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=405px)
