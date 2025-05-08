@@ -10,7 +10,7 @@ Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.c
 
 ## ⚡ Technologies
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="300">
 
 ![Language](https://img.shields.io/badge/Language-555)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
@@ -51,7 +51,6 @@ Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.c
 ![Burp Suite](https://img.shields.io/badge/-BurpSuite-5B5452?style=flat-square&logo=burpsuite)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-EEEEEE?style=flat-square&logo=metasploit)
 ![JohnTheRipper](https://img.shields.io/badge/-JohnTheRipper-DD0000?style=flat-square&logo=JohnTheRipper)
-<br>
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fraxhost&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=400px)
