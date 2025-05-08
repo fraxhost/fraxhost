@@ -54,6 +54,6 @@ Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.c
 <br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fraxhost&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=300px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraxhost&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=380px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraxhost&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=390px)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fraxhost.fraxhost)
