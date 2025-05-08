@@ -10,6 +10,8 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 
 ## ⚡ Technologies
 
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="250">
+
 ![Language](https://img.shields.io/badge/Language-555)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -26,9 +28,6 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Burp Suite](https://img.shields.io/badge/-BurpSuite-5B5452?style=flat-square&logo=burpsuite)
-![Metasploit](https://img.shields.io/badge/-Metasploit-EEEEEE?style=flat-square&logo=metasploit)
-![JohnTheRipper](https://img.shields.io/badge/-JohnTheRipper-DD0000?style=flat-square&logo=JohnTheRipper)
 <br>
 ![Database](https://img.shields.io/badge/Database-555)&nbsp;&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
@@ -47,9 +46,14 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 ![Operating System](https://img.shields.io/badge/Operating%20System-555)&nbsp;&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+<br>
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-555)&nbsp;&nbsp;
+![Burp Suite](https://img.shields.io/badge/-BurpSuite-5B5452?style=flat-square&logo=burpsuite)
+![Metasploit](https://img.shields.io/badge/-Metasploit-EEEEEE?style=flat-square&logo=metasploit)
+![JohnTheRipper](https://img.shields.io/badge/-JohnTheRipper-DD0000?style=flat-square&logo=JohnTheRipper)
+<br>
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fraxhost&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=350px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraxhost&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=350px)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fraxhost&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&line_height=24&card_width=400px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraxhost&langs_count=8&hide=TeX&layout=compact&theme=dracula&hide_border=true&card_width=570px)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fraxhost.fraxhost)
