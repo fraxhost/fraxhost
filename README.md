@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/), specializing in full-stack development. I'm also a cybersecurity enthusiast with a keen interest in breaking systems. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
@@ -10,7 +10,7 @@ I am Ahmed Ryan, currently working as a Software Engineer at [Cefalo Bangladesh 
 
 ## ⚡ Technologies
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="250">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="220">
 
 ![Language](https://img.shields.io/badge/Language-555)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
