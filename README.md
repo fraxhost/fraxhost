@@ -10,7 +10,7 @@ Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.c
 
 ## ⚡ Technologies
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="140">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="130">
 
 ![Language](https://img.shields.io/badge/Language-555)&nbsp;&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
