@@ -1,6 +1,6 @@
 ### Hi there 😄
 
-Hi, I'm Ahmed Ryan, a Software Engineer at [Cefalo Bangladesh Ltd](https://www.cefalo.com/en/), specializing in full-stack development. I'm also a cybersecurity enthusiast with a keen interest in breaking systems. Find out more about me & feel free to connect with me here:
+Hi, I'm Ahmed Ryan, a PhD student at [The University of Alabama](https://www.ua.edu/), specializing in software security and application of machine learning. I'm also a cybersecurity enthusiast with a keen interest in breaking systems. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedryanfaiyaz/)](https://www.linkedin.com/in/ahmedryanfaiyaz/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedryanfaiyaz@gmail.com)](mailto:ahmedryanfaiyaz@gmail.com)
